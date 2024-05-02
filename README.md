@@ -23,27 +23,12 @@
 
 📍Bhagalpur, Bihar  | 📞+91 9341776554  | [✉️ Email](mailto:alokkumarchoudhary03@gmail.com)  | [🔗 LinkedIn](https://linkedin.com/in/alok-choudhary9341776554)  | [:octocat: GitHub](https://github.com/alokchoudhary05)  | [**X** Twitter](https://x.com/AlokChoudh78331?t=8zuH3jMz6KGa29bGpbuBzg&s=08)  | [📑 Medium](https://alok05.medium.com/)  | [📷 Instragram](https://www.instagram.com/alokchoudhary__1?igsh=Z3dlcmJndHNvaHJw) 
 
-## 👨‍💻 Technical Skills
-- **Technology**: Python, Machine Learning, Statistics, Data Analytics, Basic Deep Learning
-- **Frameworks & Libraries**: Numpy, Pandas, Scikit-learn
-- **Databases**: MySQL
-- **Tools**: Microsoft Excel, Tableau
-
-
-## 🌐 Areas of Interest
-- Artificial Intelligence
-- Deep Learning
-- Natural Language Processing (NLP)
-- Lang-Chain
-- Blockchain
-
-## 🤹 Soft Skills
-- Analytical Skills
-- Effective Communication
-- Management
-- Teamwork
-- Leadership
-- Accountability
+<h3>🧠SKILLS:</h3>
+<ul>
+    <li><b>Technical Skills👨‍💻:</b> &nbsp;&nbsp; Python, Machine Learning, Statistics, Data Analytics, MySQL, Numpy, Pandas, Microsoft-Excel, Tableau, Basic Deep Learning</li>
+    <li><b>Area of Interest🌐:</b> &nbsp;&nbsp; Artificial Intelligence, Deep Learning, NLP, Lang-Chain, Blockchain</li>
+    <li><b>Soft Skills🤹:</b> &nbsp;&nbsp; Analytical Skills, Communication, Management, Team Work, Leadership, Accountability</li>
+</ul>
 
 ## 🎓 Education
 **Indian Institute Of Technology Patna**
@@ -54,22 +39,22 @@
 - 12th ISC (2021 - 2023)
 
 ## 🚀 Projects
-### Car Price Prediction [Project Link](https://github.com/alokchoudhary05/Car_Price_Predictor)
+#### Car Price Prediction [Project Link](https://github.com/alokchoudhary05/Car_Price_Predictor)
 - Predicted prices of pre-owned cars using machine learning algorithms.
 - **Tools Used**: Python, Machine Learning, Data Preprocessing, Statistical Analysis
 
-### Student Performance Data Science With ML [Project Link](https://github.com/alokchoudhary05/Data-Science-with-ML-Project)
+#### Student Performance Data Science With ML [Project Link](https://github.com/alokchoudhary05/Data-Science-with-ML-Project)
 - Developed a model to predict student performance.
 - **Tools Used**: Python, SQL Database, Machine Learning, Data Pipeline, MLFLOW Integration
 
-### Zomato Data Analysis Project [Project Link](https://github.com/alokchoudhary05/Zomato-Data-Analysis-Project-)
+#### Zomato Data Analysis Project [Project Link](https://github.com/alokchoudhary05/Zomato-Data-Analysis-Project-)
 - Enhanced operational efficiency through data analysis of Zomato's dataset.
 - **Tools Used**: Data Visualization, Statistical Analysis
 
-### Amazon Prime Video Analysis [Project Link](https://public.tableau.com/app/profile/alok.1/viz/AmazonPrime_16985203484140/AmazonPrime)
+#### Amazon Prime Video Analysis [Project Link](https://public.tableau.com/app/profile/alok.1/viz/AmazonPrime_16985203484140/AmazonPrime)
 - Conducted a comprehensive analysis focusing on user experience and trend analysis.
 
-### Eye Disease Classification Deep Learning Project [Project Link](https://github.com/alokchoudhary05/eye_disease_classifier)
+#### Eye Disease Classification Deep Learning Project [Project Link](https://github.com/alokchoudhary05/eye_disease_classifier)
 - Implemented image classification for eye disease detection using deep learning.
 - **Tools Used**: Deep Learning, CNN, Model Evaluation
 
