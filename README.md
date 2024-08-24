@@ -19,6 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokchoudhary05&" alt="alokchoudhary05" /></p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+<!---
 
 <h1 align="center">Resume</h1>
 <h1 align="center">Alok Choudhary</h1>
@@ -68,7 +69,7 @@
 ---
 
 > "Exploring the intersection of technology and humanity."
-
+--->
 
 
 
