@@ -2,16 +2,19 @@
 
 <h1 align="center">Hii 👋, I'm Alok</h1>
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 I’m currently learning **RAG** and **Agentic AI**, aiming to design systems that learn and act on their own.
 
 - 💬 Ask me about **Whatever you want**
 
 - 📫 Reach me at **alokkumarchoudhary03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://x.com/AlokChoudh78331?t=8zuH3jMz6KGa29bGpbuBzg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_shu6h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alok-choudhary9341776554/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-kumar-gupta-00a929280" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alokchoudhary__1?igsh=Z3dlcmJndHNvaHJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_shu6h" height="30" width="40" /></a>
+
+<a href="https://x.com/AlokChoudh78331?t=8zuH3jMz6KGa29bGpbuBzg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AlokChoudh78331" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/alokk05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alokk05/" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/alokchoudhary__1?igsh=Z3dlcmJndHNvaHJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokchoudhary__1" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokchoudhary05&show_icons=true&locale=en&layout=compact" alt="alokchoudhary05" /></p>
