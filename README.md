@@ -1,4 +1,4 @@
-![alok Choudhry](https://github.com/alokchoudhary05/alokchoudhary05/assets/148992523/f9462fec-241e-4eb8-ae27-9a13da0a3916)
+<!--![alok Choudhry](https://github.com/alokchoudhary05/alokchoudhary05/assets/148992523/f9462fec-241e-4eb8-ae27-9a13da0a3916)-->
 
 <h1 align="center">Hii 👋, I'm Alok</h1>
 
